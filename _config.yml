@@ -1,9 +1,9 @@
 # Site/SEO settings
-email: 
+email: yudongfang00@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Fang
+title: Yudong Fang
 description: random play..
 url: ""
 baseurl: ""
@@ -11,9 +11,9 @@ twitter_username:
 default_img: 
 
 # Profile settings
-name: Fang
+name: Yudong Fang
 profile_img: 
-profile: 
+profile: hello, hello
 social:
   github: 
 
